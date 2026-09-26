@@ -6,12 +6,11 @@ permalink: /cv-about/
 
 ## About Me
 
-I am a writer based in... [Cosmin, add your bio here].
-
-## Curriculum Vitae
+Multimedia writer based in Worcester, UK. Available for commission based work.
+Current project:"Meteor Gauntlet"
 
 **Education**
-* University Name, Degree, Year
+* 2:1 Bachelor Degree majoring in Creative Writing(2022-2026)
 
 **Experience**
-* Job Title, Company, Year - Present
+* TBD
