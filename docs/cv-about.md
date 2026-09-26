@@ -1,11 +1,8 @@
 ---
 layout: page
-title: CV & About
-permalink: /cv-about/
+title: About me
+permalink: /about-me/
 ---
-
-## About Me
-
 Multimedia writer based in Worcester, UK. Available for commission based work.
 Current project:"Meteor Gauntlet"
 
