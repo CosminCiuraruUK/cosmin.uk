@@ -4,8 +4,9 @@ title: University Work
 permalink: /university-work/
 ---
 
-Here is a selection of my university work.
+A selection of projects done during my four years at university:
 
-* [Essay: The Impact of Literature](/)
-* [Project: Creative Writing Portfolio](/)
-* [Thesis: Modernism in the 20th Century](/)
+* [“The Last Night I Confided in God”](/)
+* [Japan: The Frontier of Escapism](/)
+* [“Soft Gambling in Japan”](/)
+* [K(NIGHT) VISION](/)
